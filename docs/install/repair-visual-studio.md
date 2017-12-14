@@ -1,3 +1,4 @@
+
 ---
 title: "Repair Visual Studio 2017 | Microsoft Docs"
 description: "Learn how to repair an installation of Visual Studio 2017."
@@ -41,3 +42,4 @@ Here are a few more support options:
 * [Update Visual Studio 2017](update-visual-studio.md)
 * [Uninstall Visual Studio 2017](uninstall-visual-studio.md)
 * [Troubleshooting Visual Studio 2017 installation and upgrade issues](troubleshooting-installation-issues.md)
+* [-SafeMode (devenv.exe)](https://docs.microsoft.com/en-us/visualstudio/ide/reference/safemode-devenv-exe)
